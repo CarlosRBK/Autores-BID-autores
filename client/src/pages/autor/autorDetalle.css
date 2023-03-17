@@ -1,0 +1,38 @@
+.container-detalles{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.columna-detalles{
+    display: flex;
+    flex-direction: row;
+    border: solid black 3px;
+    width: 500px;
+}
+
+.container-items-detalles{
+    padding: 20px;
+    margin: 15px;
+}
+
+.container-items-detalles p {
+    font-weight: bold;
+}
+
+.columna-resultados-detalles{
+    padding: 20px;
+    margin: 15px;
+}
+
+.backhome{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+}
+
+.container-head{
+    width: 600px;
+}
